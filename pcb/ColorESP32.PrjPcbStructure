@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=1_MCU.schdoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=1_MCU.schdoc|FileName=2_MODUE.schdoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1_MCU.schdoc|FileName=3_AUDIO.schdoc|SheetNumber=3
