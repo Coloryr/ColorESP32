@@ -41,15 +41,19 @@ idf.py build
 C编译器：`你想让esp-idf工具安装的目录\tools\xtensa-esp32s3-elf\esp-2021r2-8.4.0\xtensa-esp32s3-elf\bin\xtensa-esp32s3-elf-gcc.exe`  
 C++编译器：`你想让esp-idf工具安装的目录\tools\xtensa-esp32s3-elf\esp-2021r2-8.4.0\xtensa-esp32s3-elf\bin\xtensa-esp32s3-elf-g++.exe`  
 调试器：`你想让esp-idf工具安装的目录\tools\xtensa-esp32s3-elf\esp-2021r2-8.4.0\xtensa-esp32s3-elf\bin\xtensa-esp32s3-elf-gdb.exe`  
+CMake：`你想让esp-idf工具安装的目录\cmake\3.20.3\bin\cmake.exe`
 设置CMake  
 构建目录：`build`  
 其他不用动
+![](./pic/pic2.png)  
+![](./pic/pic3.png)
 
 - Vscode
 使用Vscode打开`blink`目录  
 安装`CMake`扩展  
 选择`GCC 8.4.0 xtensa-esp32s3-elf`  
-最下方的`[all]`点开，选择`blink.elf`
+最下方的`[all]`点开，选择`blink.elf`  
+![](./pic/pic4.png)
 
 ## 注意事项
 编译只能用

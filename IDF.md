@@ -67,6 +67,9 @@ pip install -r .\requirements.txt
 上面会出现一堆PATH
 除了`python_env\idf5.0_py3.10_env\Scripts`，其他全部添加进环境变量的`path`
 
+例如  
+![](./pic/pic1.png)
+
 完成后输入
 ```
 cmake
