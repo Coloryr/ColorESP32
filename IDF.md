@@ -25,7 +25,8 @@ python get-pip.py
 ### IDE选择
 
 [Vscode](https://code.visualstudio.com/)  
-[Clion](https://www.jetbrains.com/clion/)
+[Clion](https://www.jetbrains.com/clion/)  
+[VS](https://visualstudio.microsoft.com/zh-hans/vs/)
 
 ## 开始步骤
 
@@ -58,6 +59,7 @@ git clone https://github.com/espressif/esp-idf.git
 pip install -r .\requirements.txt
 ```
 
+安装过程中需要挂代理  
 等待安装完成，出现错误自行解决  
 安装完成后
 ```

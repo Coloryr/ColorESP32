@@ -55,6 +55,14 @@ CMake：`你想让esp-idf工具安装的目录\cmake\3.20.3\bin\cmake.exe`
 最下方的`[all]`点开，选择`blink.elf`  
 ![](./pic/pic4.png)
 
+- VS
+使用VS打开`blink`目录
+打开`CMake`设定  
+修改生成根为`${projectDir}\build`  
+工具集`msvc_x64` 
+剩下的默认即可  
+![](./pic/pic5.png)
+
 ## 注意事项
 编译只能用
 ```
